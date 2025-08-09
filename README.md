@@ -25,6 +25,3 @@ FirstApp provides a simple foundation for building and understanding application
    - Use your preferred tools or commands for your technology stack. (Add details here as needed.)
 
 
-## Author
-
-[merymAydin](https://github.com/merymAydin)
